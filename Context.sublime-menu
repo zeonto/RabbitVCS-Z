@@ -1,0 +1,7 @@
+[
+   { "caption": "-" },
+   { "caption": "RabbitVCS Z : Update", "command": "rabbit_vcs_zz", "args": {"type": "update","paths": [],} },
+   { "caption": "RabbitVCS Z : Log", "command": "rabbit_vcs_zz", "args": {"type": "log","paths": [],} },
+   { "caption": "RabbitVCS Z : Commit", "command": "rabbit_vcs_zz", "args": {"type": "commit","paths": [],} },
+   { "caption": "-" }
+]

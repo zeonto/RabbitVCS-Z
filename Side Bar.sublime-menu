@@ -1,0 +1,36 @@
+[
+    {
+        "id": "rabbitvcsz",
+        "caption": "RabbitVCS-Z",
+        "children":
+        [
+            {
+                "id": "update",
+                "caption": "SVN Update",
+                "command": "rabbit_vcs_zz",
+                "args": {
+                    "type": "update",
+                    "paths": [],
+                }
+            },
+            {
+                "id": "log",
+                "caption": "SVN Log",
+                "command": "rabbit_vcs_zz",
+                "args": {
+                    "type": "log",
+                    "paths": [],
+                }
+            },
+            {
+                "id": "commit",
+                "caption": "SVN Commit",
+                "command": "rabbit_vcs_zz",
+                "args": {
+                    "type": "commit",
+                    "paths": [],
+                }
+            },
+        ]
+    }
+]
